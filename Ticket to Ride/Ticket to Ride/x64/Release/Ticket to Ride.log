@@ -1,0 +1,9 @@
+﻿  board.cpp
+  main.cpp
+C:\Users\12099\source\repos\Ticket to Ride\Ticket to Ride\main.cpp(26,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  player.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 761 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ticket to Ride.vcxproj -> C:\Users\12099\source\repos\Ticket to Ride\x64\Release\Ticket to Ride.exe
